@@ -14,3 +14,5 @@ An anonymous confession app for developers to share their bugs, deadline stress,
 npm install && npm start
 
 ## Port: 3000
+## Refactor Completed
+MVC architecture implemented successfully.
